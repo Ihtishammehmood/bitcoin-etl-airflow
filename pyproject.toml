@@ -1,0 +1,15 @@
+[project]
+name = "etl"
+version = "0.1.0"
+description = "Bitcoin ETL project Pipeline"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "apache-airflow-providers-postgres>=6.2.0",
+    "apache-airflow[postgres]>=3.0.0",
+    "pandas-ta>=0.3.14b0",
+    "psycopg2-binary>=2.9.10",
+    "setuptools>=80.9.0",
+    "wheel>=0.45.1",
+    "yfinance>=0.2.61",
+]
