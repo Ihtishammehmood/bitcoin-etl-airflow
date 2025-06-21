@@ -1,4 +1,14 @@
-# ETL Bitcoin project
+<h1 align="center">Bitcoin ETL with Apache Airflow</h1>
+
+![image](https://github.com/user-attachments/assets/6fae6071-6b66-4497-b621-fe2093757685)
+
+# [Watch full youtube video here](https://youtu.be/gXs-BHNJlIQ)
+
+
+
+
+
+
 ## Overview
 
 This is a comprehensive **ETL (Extract, Transform, Load) Pipeline** project designed for cryptocurrency data processing. The project combines multiple technologies including **Apache Airflow**, **PostgreSQL**, **Docker**, and **Python** to create a robust data pipeline for financial market analysis.
